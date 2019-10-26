@@ -7,6 +7,8 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:DodgerBlue">
+      <div class="jumbotron" style="background-color:LightGray">
+      <h1 style="border:2px solid Tomato;">Welcome to 7-HILLS TRAINING</h1>
      <h1 class="text-center">Welcome to 7-HILLS TRAINING</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
