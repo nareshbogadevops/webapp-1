@@ -10,8 +10,8 @@
       <div class="jumbotron" style="background-color:LightGray">
       <h1 class="text-center"> welcome to 7-HILLS Training </h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
-           class="img-responsive center-block" style="width:350px"/>
-      <h1 class="text-center"> Autodeployment with CI-server JENKINS </h1>
+           class="img-responsive center-block" style="width:250px"/>
+      <h1 class="text-center"> Autodeployment with CI-Server JENKINS </h1>
       <h2 class="text-center"> Presented by Naresh B </h2>
       <h2 class="text-center"> Cloud - Engineer </h2>
   </div>
