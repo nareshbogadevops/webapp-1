@@ -1,9 +1,12 @@
+enkinsfile (Declarative Pipeline)
 pipeline {
-    agent any
+    agent {
+        docker { image 'node:7-alpine' }
+    }
     stages {
-        stage('build') {
+        stage('Test') {
             steps {
-                sh 'clean test'
+                sh 'node --version'
             }
         }
     }
