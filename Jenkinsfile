@@ -1,4 +1,4 @@
-enkinsfile (Declarative Pipeline)
+Jenkinsfile (Declarative Pipeline)
 pipeline {
     agent {
         docker { image 'node:7-alpine' }
